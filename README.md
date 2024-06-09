@@ -4,7 +4,7 @@
 * Bookmark: `javascript:(function(){Game.LoadMod('https://raw.githack.com/omaruvu/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');})()`
 
 # Info 
-pressing different keyboard keys will change the outcome of a golden cookie:
+Pressing different keyboard keys will change the outcome of a golden cookie:
 * 1 Frenzy 
 * 2 Click frenzy 
 * 3 Cookie Storm 
