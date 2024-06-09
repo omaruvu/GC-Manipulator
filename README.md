@@ -1,9 +1,10 @@
 # How to install
 
-* Dev Console: `Game.LoadMod('https://raw.githack.com/omaruvu/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');`
-* Bookmark: `javascript:(function(){Game.LoadMod('https://raw.githack.com/omaruvu/Cookie-Clicker-Speedrun-Practice-Mod/main/main.js');})()`
+* Dev Console: `Game.LoadMod('https://raw.githack.com/omaruvu/GC-Manipulator/main/GCManipulator.js');`
+* Bookmark: `javascript:(function(){Game.LoadMod('https://raw.githack.com/omaruvu/GC-Manipulator/main/GCManipulator.js');})()`
 
 # Info 
+
 Pressing different keyboard keys will change the outcome of a golden cookie:
 * 1 Frenzy 
 * 2 Click frenzy 
@@ -21,4 +22,9 @@ To change the backfire chance of a spell there are 2 keys for it:
 * S makes every spell guaranteed to non-backfire
 * R will reset the mode you have choosen
 
-Dragon Orbs will work on the first sell. Fortune news tickers have a much higher chance to appear. Most random drops are much more common.
+# Random editions
+
+* There is a option in the menus for DEoRL, enabling it will make it so every shimmer is always a DEoRL 
+* Dragon Orbs will work on the first sell
+* Fortune news tickers have a much higher chance to appear
+* Most random drops are much more common
