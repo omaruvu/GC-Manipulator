@@ -1,7 +1,7 @@
 # How to install
 
-* Dev Console: `Game.LoadMod('https://raw.githack.com/omaruvu/GC-Manipulator/main/GCManipulator.js');`
-* Bookmark: `javascript:(function(){Game.LoadMod('https://raw.githack.com/omaruvu/GC-Manipulator/main/GCManipulator.js');})()`
+* Dev Console: `Game.LoadMod('https://omaruvu.github.io/GC-Manipulator/GCManipulator.js');`
+* Bookmark: `javascript:(function(){Game.LoadMod('https://omaruvu.github.io/GC-Manipulator/GCManipulator.js');})()`
 
 # Info 
 
